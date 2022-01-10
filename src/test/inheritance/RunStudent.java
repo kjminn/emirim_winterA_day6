@@ -12,10 +12,10 @@ public class RunStudent {
 		stu1.grade = 1;
 		stu1.ban = 1;
 		
-		stu1.sleep();
-		stu1.wakeUP();
-		stu1.walk();
-		stu1.eat();
+		stu1.sleep();//Person
+		stu1.wakeUP();//Person
+		stu1.walk();//Person
+		stu1.eat();//Person
 		stu1.study();
 		stu1.play();
 	}
